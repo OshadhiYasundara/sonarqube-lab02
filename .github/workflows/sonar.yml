@@ -41,5 +41,5 @@ jobs:
         run: |
           mvn sonar:sonar \
           -Dsonar.projectKey=yasundaragao214241h_lab02 \
-          -Dsonar.organization=YasundaraGAO21424IH \
+          -Dsonar.organization=yasundaragao214241h \
           -Dsonar.host.url=https://sonarcloud.io 
